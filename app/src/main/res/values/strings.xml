@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyStopwatch</string>
+    <string name="countdown">0</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="time">TIME</string>
+</resources>
